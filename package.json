@@ -1,7 +1,7 @@
 {
-  "name": "bof-frontend-project-basic",
+  "name": "country-info",
   "version": "0.1.0",
-  "homepage": "https://cah4o.github.io/bof-frontend-project-basic/",
+  "homepage": "https://roflankaban.github.io/Country-Info/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
@@ -52,6 +52,7 @@
     ]
   },
   "devDependencies": {
-    "@redux-devtools/core": "^3.13.1"
+    "@redux-devtools/core": "^3.13.1",
+    "gh-pages": "^4.0.0"
   }
 }
