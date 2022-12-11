@@ -1,7 +1,7 @@
 {
   "name": "coutry-info",
   "version": "0.1.0",
-  "homepage": "https://roflankaban.github.io/coutry-info",
+  "homepage": "https://roflankaban.github.io/Coutry-info",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.4",
