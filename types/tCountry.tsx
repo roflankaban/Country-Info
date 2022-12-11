@@ -33,5 +33,5 @@ export interface tCountry {
     png: string;
     svg: string;
   };
-  isFavorite: boolean;
+  isFavorit: boolean;
 }
