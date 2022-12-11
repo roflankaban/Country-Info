@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bof-frontend-project-basic/static/css/main.15e8fa6c.css",
-    "main.js": "/bof-frontend-project-basic/static/js/main.600ae706.js",
-    "static/js/787.d925fb07.chunk.js": "/bof-frontend-project-basic/static/js/787.d925fb07.chunk.js",
-    "index.html": "/bof-frontend-project-basic/index.html",
-    "main.15e8fa6c.css.map": "/bof-frontend-project-basic/static/css/main.15e8fa6c.css.map",
-    "main.600ae706.js.map": "/bof-frontend-project-basic/static/js/main.600ae706.js.map",
-    "787.d925fb07.chunk.js.map": "/bof-frontend-project-basic/static/js/787.d925fb07.chunk.js.map"
+    "main.css": "/Country-Info/static/css/main.15e8fa6c.css",
+    "main.js": "/Country-Info/static/js/main.a03bbdc2.js",
+    "static/js/787.8824c53a.chunk.js": "/Country-Info/static/js/787.8824c53a.chunk.js",
+    "index.html": "/Country-Info/index.html",
+    "main.15e8fa6c.css.map": "/Country-Info/static/css/main.15e8fa6c.css.map",
+    "main.a03bbdc2.js.map": "/Country-Info/static/js/main.a03bbdc2.js.map",
+    "787.8824c53a.chunk.js.map": "/Country-Info/static/js/787.8824c53a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15e8fa6c.css",
-    "static/js/main.600ae706.js"
+    "static/js/main.a03bbdc2.js"
   ]
 }
